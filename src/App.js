@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 
 
-require('./components/Button');
 
+class Form extends React.Component {
+require('./components/Button');
+}
 
 export default App;
